@@ -42,21 +42,25 @@ Deployment
 Docker
 Docker Compose
 # 🏗️ Architecture Diagram
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e1d539d-35ef-498a-992d-5b3e2c34f964" />
 
-![Architecture Diagram](./screenshots/architecture-diagram.png)
+
 <img width="1529" height="860" alt="image" src="https://github.com/user-attachments/assets/43e6a7be-441b-4f4b-bd15-1b87b5bf8648" />
 
 ---
 
 # 🔥 RAG Workflow
 
-![RAG Workflow](./screenshots/rag-workflow.png)
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/f2fc53d0-62bd-43a5-8f8d-be515b5da21e" />
+
 
 ---
 
 # 🧩 Application Screens
 
-![Application Screens](./screenshots/application-screens.png)
+<img width="1127" height="860" alt="image" src="https://github.com/user-attachments/assets/9d1676a5-7504-48b6-85c1-7acf582cd75a" />
+<img width="2000" height="945" alt="image" src="https://github.com/user-attachments/assets/0ae66670-7d83-42d3-98e7-972c660b868f" />
+
 
 🔄 System Workflow
 User uploads PDF
