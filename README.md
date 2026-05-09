@@ -44,6 +44,7 @@ Docker Compose
 # 🏗️ Architecture Diagram
 
 ![Architecture Diagram](./screenshots/architecture-diagram.png)
+<img width="1529" height="860" alt="image" src="https://github.com/user-attachments/assets/43e6a7be-441b-4f4b-bd15-1b87b5bf8648" />
 
 ---
 
